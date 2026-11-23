@@ -6,7 +6,7 @@ Entre código, diseño y nuevas tecnologías, disfruto convirtiendo ideas en pro
 
 Trabajo en [Suquet Estudi](https://suquet.studio/), donde convierto ideas en soluciones digitales completas: desde la definición y el diseño hasta el desarrollo y el despliegue. Mi especialidad es el frontend con **Vue y Nuxt**, con atención a la accesibilidad, el rendimiento y la facilidad de uso.
 
-[Suquet Estudi](https://suquet.studio/) · [LinkedIn](https://www.linkedin.com/in/pau-ferrandis-garcia-58230ab7/) · [Instagram del estudio](https://www.instagram.com/suquet.studi/)
+[![Suquet Estudi](https://img.shields.io/badge/Suquet%20Estudi-101410?style=for-the-badge&logoColor=FF8730)](https://suquet.studio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-101410?style=for-the-badge&logoColor=0A66C2)](https://www.linkedin.com/in/pau-ferrandis-garcia-58230ab7/) [![Instagram](https://img.shields.io/badge/Instagram-101410?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/suquet.studi/)
 
 ## En qué trabajo
 
@@ -14,15 +14,21 @@ Trabajo en [Suquet Estudi](https://suquet.studio/), donde convierto ideas en sol
 - **Diseño y creatividad.** Interfaces y prototipos en Figma. Utilizo IA para explorar ideas, prototipar y revisar código; también para generar música y arte en Kira Beats.
 - **Calidad y visibilidad.** SEO, GEO y auditorías de accesibilidad y rendimiento, integrados en el trabajo sobre cada proyecto.
 
-## Herramientas habituales
+## 💻 Herramientas habituales
 
-| Área | Herramientas y prácticas |
-| --- | --- |
-| Frontend | Vue · Nuxt · JavaScript · TypeScript · HTML · CSS |
-| Estilos | Sass · BEM · Arquitectura 7–1 · Tailwind CSS |
-| Contenido y comercio | Nuxt Content · Nuxt Studio · WordPress · WooCommerce |
-| Datos y despliegue | Neon · Vercel · Git |
-| Diseño | Figma · Prototipado · IA aplicada |
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-101410?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Nuxt](https://img.shields.io/badge/Nuxt-101410?style=for-the-badge&logo=nuxt&logoColor=00DC82) ![JavaScript](https://img.shields.io/badge/JavaScript-101410?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-101410?style=for-the-badge&logo=typescript&logoColor=3178C6) ![HTML5](https://img.shields.io/badge/HTML5-101410?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-101410?style=for-the-badge&logo=css&logoColor=663399)
+
+**Estilos y contenido**
+
+![Sass](https://img.shields.io/badge/Sass-101410?style=for-the-badge&logo=sass&logoColor=CC6699) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-101410?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4) ![WordPress](https://img.shields.io/badge/WordPress-101410?style=for-the-badge&logo=wordpress&logoColor=21759B) ![WooCommerce](https://img.shields.io/badge/WooCommerce-101410?style=for-the-badge&logo=woocommerce&logoColor=96588A) ![PHP](https://img.shields.io/badge/PHP-101410?style=for-the-badge&logo=php&logoColor=777BB4) ![Nuxt Content](https://img.shields.io/badge/Nuxt%20Content-101410?style=for-the-badge&logo=nuxt&logoColor=00DC82)
+
+**Diseño y despliegue**
+
+![Figma](https://img.shields.io/badge/Figma-101410?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Neon](https://img.shields.io/badge/Neon-101410?style=for-the-badge&logoColor=FF8730) ![Vercel](https://img.shields.io/badge/Vercel-101410?style=for-the-badge&logo=vercel&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/Git-101410?style=for-the-badge&logo=git&logoColor=F05032)
+
+Trabajo con BEM y arquitectura Sass 7–1, edito contenido con Nuxt Studio e incorporo IA al prototipado y la revisión de código.
 
 ## Proyectos
 
@@ -45,6 +51,14 @@ Trabajo en [Suquet Estudi](https://suquet.studio/), donde convierto ideas en sol
 | 2025 — 2026 | inSuit | Consultor de accesibilidad web |
 | 2023 — 2025 | Idecrea | Profesor de Diseño Web |
 
-Fuera del código: café, ajedrez y música.
+## 📊 Actividad en GitHub
+
+[![Estadísticas públicas de Pau en GitHub](https://github-readme-stats.vercel.app/api?username=SuquiDev&show_icons=true&hide_border=true&bg_color=101410&title_color=FF8730&icon_color=FF8730&text_color=E7E8E2&locale=es)](https://github.com/SuquiDev?tab=repositories)
+
+[![Racha de contribuciones de Pau en GitHub](https://streak-stats.demolab.com?user=SuquiDev&hide_border=true&background=101410&ring=FF8730&fire=FF8730&currStreakLabel=FF8730&sideLabels=E7E8E2&currStreakNum=E7E8E2&sideNums=E7E8E2&dates=A8B0A5&locale=es)](https://github.com/SuquiDev?tab=overview)
+
+[![Lenguajes más utilizados en los repositorios públicos de Pau](https://github-readme-stats.vercel.app/api/top-langs/?username=SuquiDev&layout=compact&hide_border=true&bg_color=101410&title_color=FF8730&text_color=E7E8E2&locale=es)](https://github.com/SuquiDev?tab=repositories)
+
+Fuera del código: ☕ café, ♟️ ajedrez y 🎧 música.
 
 ¿Tienes un proyecto en mente? [Hablemos en LinkedIn](https://www.linkedin.com/in/pau-ferrandis-garcia-58230ab7/).
